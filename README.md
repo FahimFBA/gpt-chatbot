@@ -1,7 +1,8 @@
 # gpt-chatbot
 simple chatbot CLI using GPT 3.5-turbo
 
-> [NOTE] This requires the paid plan of ChatGPT for accessing the API call.
+> [!NOTE]  
+>  This requires the paid plan of ChatGPT for accessing the API call.
 
 ## Install `openai` module
 
